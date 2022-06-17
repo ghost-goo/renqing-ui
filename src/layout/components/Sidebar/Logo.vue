@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '考培一体化平台',
+      title: '人情管理系统',
       logo: logoImg
     }
   }

@@ -1,8 +1,8 @@
 {
-  "name": "belong",
+  "name": "renqing",
   "version": "3.8.1",
-  "description": "考培一体化平台",
-  "author": "贝朗科技",
+  "description": "The ghost is still in love",
+  "author": "没啥用科技",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",

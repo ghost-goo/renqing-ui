@@ -1,6 +1,6 @@
  /**
  * v-hasRole 角色权限处理
- * Copyright (c) 2019 belong
+ * Copyright (c) 2019 renqing
  */
 
 import store from '@/store'
